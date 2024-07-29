@@ -14,7 +14,7 @@ Table des Matières
 	•	Hybride
 	•	Résultats et Impact
 	•	Contributions
-	•	Auteur
+	•	Auteur 
 	•	Licence
 
 Aperçu
